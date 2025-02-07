@@ -1,2 +1,2 @@
 # Desmos-Arts-And-Craft
-HTML &amp; CSS 
+An easy HTML &amp; CSS project from Codecademy.
